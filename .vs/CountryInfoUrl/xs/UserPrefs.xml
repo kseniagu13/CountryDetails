@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9EDAA532-2CCB-47CC-9C40-0A2892C83D0C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CountryInfoUrl PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountryInfoUrl/Program.cs">
+    <Files>
+      <File FileName="CountryInfoUrl/CountryDetails.cs" Line="52" Column="31" />
+      <File FileName="CountryInfoUrl/Program.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountryInfoUrl" expanded="True">
+            <Node name="CountryInfoUrl" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
